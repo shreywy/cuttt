@@ -1,0 +1,2 @@
+# cuttt
+Basic URL Shortener.
