@@ -35,11 +35,11 @@ class Form extends React.Component {
         }
 
         var generatedKey = nanoid(5);
-        var generatedURL = "cuttt.com/" + generatedKey
+        var generatedURL = "cuttt.f4bkf6fvc5h9g2aq.eastus.azurecontainer.io/" + generatedKey
 
         if (this.state.preferedAlias !== '') {
             generatedKey = this.state.preferedAlias
-            generatedURL = "cuttt.com/" + this.state.preferedAlias
+            generatedURL = "cuttt.f4bkf6fvc5h9g2aq.eastus.azurecontainer.io/" + this.state.preferedAlias
         }
 
         const db = getDatabase();
