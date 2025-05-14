@@ -1,5 +1,7 @@
 # cuttt - URL Shortening Service
 
+![Image of Client](https://imgur.com/a/uqKx7vs)
+
 Cuttt is a "cuttt"ing-edge URL shortening service that streamlines the way you share links online. It uses a powerful tech stack combining React, JavaScript, Node.js, CSS, and HTML for the frontend, and Python, Flask, Firebase, Azure, and Docker for the backend.
 
 The following instructions will guide you on how to get it up and running locally.
